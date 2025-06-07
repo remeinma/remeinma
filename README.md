@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+努力一下。
+
+![](https://github-readme-stats.vercel.app/api?username=remeinma&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remeinma&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=remeinma&theme=dracula)
+
