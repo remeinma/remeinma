@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 📈 **Github Stats:**
 
-![](https://github-readme-stats.vercel.app/api?username=remeinma&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=remeinma&show_icons=true&theme=tokyonight)
 
 
